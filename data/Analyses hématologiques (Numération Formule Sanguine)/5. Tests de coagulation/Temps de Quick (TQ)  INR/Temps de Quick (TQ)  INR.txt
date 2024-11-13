@@ -1,0 +1,64 @@
+Analyses Hématologiques : Tests de Coagulation
+
+1. Temps de Quick (TQ) / INR (International Normalized Ratio)
+1.1. Définition
+Le Temps de Quick (TQ) est un test de laboratoire qui mesure le temps nécessaire pour que le sang forme un caillot. Il est utilisé pour évaluer la fonction des facteurs de coagulation, en particulier ceux de la voie extrinsèque de la coagulation, tels que les facteurs II (prothrombine), V, VII, et X. Ce test est souvent mesuré en secondes.
+
+Le TQ est couramment exprimé sous la forme d’un ratio normalisé, appelé INR (International Normalized Ratio). L'INR a été développé pour standardiser les résultats du test de Quick, en prenant en compte les variations entre les différents réactifs utilisés par les laboratoires.
+
+L’INR est essentiel dans le suivi des patients sous traitement anticoagulant, notamment ceux prenant des anticoagulants comme la warfarine, afin de maintenir une anticoagulation efficace et sûre.
+
+1.2. Valeurs Normales
+Temps de Quick (TQ) :
+
+La valeur normale du TQ varie entre 10 et 14 secondes chez les individus sains.
+Le TQ est souvent exprimé sous forme d'un pourcentage de l’activité de la prothrombine comparé à une norme. Une valeur normale est généralement supérieure à 70-100%.
+INR :
+
+Pour un individu sain, la valeur normale de l'INR est généralement de 1.0.
+L'INR est utilisé pour surveiller les patients sous traitement anticoagulant, où l'INR visé se situe typiquement entre 2.0 et 3.0, mais cela peut varier selon les indications cliniques.
+1.3. Signification Clinique
+1.3.1. Temps de Quick (TQ)
+Le TQ est un test important pour évaluer l'intégrité de la voie extrinsèque de la coagulation et les facteurs de la prothrombine. Des valeurs anormales peuvent indiquer :
+
+Prolongation du TQ :
+
+Carence en facteur VII : Cela peut survenir dans certaines maladies héréditaires, mais est rarement isolé.
+Carence en facteur V, X ou II : Ces déficits peuvent survenir dans des conditions telles que des troubles hépatiques sévères (par exemple, cirrhose) ou dans des déficiences en vitamine K.
+Surdosage d'anticoagulants : Un surdosage de médicaments comme la warfarine peut prolonger le TQ en inhibant la production des facteurs de coagulation dépendants de la vitamine K.
+Troubles hépatiques : Une atteinte hépatique sévère peut entraîner une diminution de la production des facteurs de coagulation, allongeant ainsi le TQ.
+Syndrome de sepsis ou de choc : Une prolongation du TQ peut aussi être observée en cas de coagulation intravasculaire disséminée (CIVD).
+Raccourcissement du TQ :
+
+Un raccourcissement du TQ est relativement rare et peut être observé dans des conditions de polyglobulie ou après une transfusion de plasma.
+1.3.2. INR
+L'INR est particulièrement utilisé pour :
+
+Surveiller l’anticoagulation avec la warfarine :
+Un INR de 2.0 à 3.0 est généralement recommandé pour la prévention des thromboembolie veineuse et des AVC dans les cas de fibrillation auriculaire, de prothèses valvulaires, etc.
+INR > 3.0 peut indiquer un risque accru de saignement et nécessite une réduction de la dose d'anticoagulant.
+INR < 2.0 signifie que l'anticoagulation est insuffisante et un risque accru de formation de caillots peut exister.
+Troubles de la coagulation :
+Des valeurs anormales de l'INR peuvent aussi refléter des troubles congénitaux de la coagulation (déficit en facteurs de coagulation), ou des troubles hépatiques sévères où la production des facteurs de coagulation est compromise.
+1.4. Indications Cliniques pour le TQ / INR
+Le test du TQ / INR est demandé dans plusieurs situations cliniques, notamment :
+
+Suivi des patients sous traitement anticoagulant :
+
+Il est essentiel pour ajuster la dose de médicaments comme la warfarine afin d’éviter des complications telles que des hémorragies ou des thromboses.
+Évaluation des troubles de la coagulation :
+
+Le test peut être utilisé pour diagnostiquer des anomalies dans la voie extrinsèque de la coagulation, telles que des déficiences en facteurs de coagulation ou des problèmes de vitamine K.
+Pathologies hépatiques :
+
+Le TQ prolongé est un indicateur de dysfonctionnement hépatique grave, tel que dans la cirrhose ou l'hépatite aiguë, où la production des facteurs de coagulation est altérée.
+Diagnostic de la coagulation intravasculaire disséminée (CIVD) :
+
+Le TQ prolongé peut être un signe de CIVD, un processus pathologique dans lequel des caillots se forment dans tout le corps, entraînant une consommation excessive des facteurs de coagulation et un risque de saignement accru.
+1.5. Limites du Test de Quick / INR
+Bien que le test du TQ et l'INR soient des outils essentiels dans le suivi de la coagulation et des anticoagulants, il y a certaines limites à leur interprétation :
+
+Influence des réactifs : Les résultats du TQ peuvent varier selon les réactifs et les méthodes utilisées par le laboratoire, ce qui justifie l'utilisation de l'INR pour uniformiser les résultats.
+État clinique du patient : Le test peut être influencé par des facteurs tels que la prise de médicaments, des troubles nutritionnels (carence en vitamine K) ou des conditions pathologiques (maladies hépatiques).
+1.6. Conclusion
+Le Temps de Quick (TQ) et l'INR sont des tests essentiels pour évaluer la fonction de la coagulation, particulièrement pour le suivi des patients sous traitement anticoagulant. Un INR normal se situe autour de 1,0, mais des valeurs plus élevées ou plus faibles peuvent indiquer des problèmes de coagulation, nécessitant des ajustements thérapeutiques ou un traitement spécifique.

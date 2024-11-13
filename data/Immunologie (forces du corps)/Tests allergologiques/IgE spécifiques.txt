@@ -1,0 +1,26 @@
+Les tests allergologiques basés sur les analyses immunologiques, notamment les dosages des IgE spécifiques, sont des outils essentiels pour le diagnostic des allergies. Voici un aperçu détaillé de ces tests, y compris les valeurs normales et leur signification clinique :
+
+1. IgE spécifiques : Qu'est-ce que c'est ?
+Les IgE (immunoglobulines de type E) spécifiques sont des anticorps produits par le système immunitaire en réponse à un allergène précis (ex : pollens, acariens, poils d’animaux). Dans le contexte d’une allergie, les IgE se fixent à la surface de certaines cellules, comme les mastocytes, et réagissent lors de l'exposition répétée à l'allergène. Cette réaction libère des médiateurs (histamine) responsables des symptômes allergiques.
+
+2. Valeurs normales des IgE spécifiques
+Les valeurs normales d'IgE spécifiques varient en fonction des laboratoires et de la méthode de dosage utilisée, mais en général, elles sont exprimées en kilo-unités par litre (kU/L).
+
+0 - 0,35 kU/L : Absence ou faible probabilité de réaction allergique.
+0,35 - 0,70 kU/L : Faible probabilité de réaction allergique, interprétation clinique variable.
+0,70 - 3,5 kU/L : Sensibilisation modérée, possibilité de symptômes cliniques d’allergie.
+3,5 - 17,5 kU/L : Sensibilisation significative avec probabilité élevée de symptômes.
+17,5 - 50 kU/L : Forte sensibilisation, symptômes cliniques probables.
+50 - 100 kU/L et plus : Très forte sensibilisation, symptômes allergiques très probables.
+3. Signification clinique des dosages d'IgE spécifiques
+Le dosage des IgE spécifiques a pour objectif de :
+
+Confirmer une allergie suspectée : En présence de symptômes cliniques compatibles, comme des rhinites, eczémas, urticaires ou anaphylaxie.
+Établir un profil de sensibilisation : Identifier les allergènes responsables pour un suivi et une gestion adaptés (éviction, désensibilisation).
+Surveillance des allergies : Dans certains cas, des dosages réguliers peuvent aider à suivre l’évolution d’une allergie.
+Cependant, il est important de noter que la présence d'IgE spécifiques n'implique pas nécessairement une allergie clinique. Une sensibilisation, c’est-à-dire un taux élevé d'IgE spécifiques sans symptômes, peut être observée sans réponse clinique apparente. Le contexte clinique, les symptômes et les antécédents doivent donc être pris en compte pour interpréter correctement les résultats.
+
+4. Autres informations importantes
+Les IgE totales peuvent également être mesurées, mais elles ne sont pas spécifiques et ne permettent pas de diagnostiquer une allergie précise. Les tests de provocation (exposition contrôlée à l’allergène) sont souvent utilisés en complément pour confirmer le diagnostic en cas de doute.
+
+En résumé, le dosage des IgE spécifiques est un outil précieux pour identifier les allergies et leur intensité, mais il doit être interprété avec prudence en tenant compte du contexte clinique.

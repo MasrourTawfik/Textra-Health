@@ -1,0 +1,25 @@
+L’analyse de la calcitonine est une mesure importante dans l’évaluation du métabolisme phosphocalcique. La calcitonine est une hormone produite principalement par les cellules C de la glande thyroïde. Elle joue un rôle clé dans la régulation des taux de calcium et de phosphate dans le sang, en opposition à l'action de la parathormone (PTH), qui augmente le calcium sanguin.
+
+Rôle de la Calcitonine
+Diminution des taux sanguins de calcium : La calcitonine abaisse les niveaux de calcium sanguin en inhibant la résorption osseuse, c’est-à-dire en réduisant l'activité des ostéoclastes (cellules qui dégradent l'os).
+Effet sur le phosphate : Elle diminue aussi légèrement le taux de phosphate en stimulant son excrétion rénale.
+Valeurs normales de la calcitonine
+Les valeurs normales de la calcitonine varient en fonction du sexe et des méthodes de mesure du laboratoire. Voici des fourchettes indicatives :
+
+Hommes : < 8 pg/mL
+Femmes : < 5 pg/mL
+Enfants : les niveaux peuvent être légèrement plus élevés
+Cependant, il est toujours important de se référer aux valeurs spécifiques fournies par le laboratoire.
+
+Signification clinique des taux de calcitonine
+Taux élevés de calcitonine :
+
+Cancer médullaire de la thyroïde (CMT) : Une élévation importante de la calcitonine est souvent associée au cancer médullaire de la thyroïde, une tumeur qui provient des cellules C. La calcitonine est utilisée comme marqueur pour diagnostiquer et surveiller ce type de cancer.
+Hyperplasie des cellules C : Cela peut précéder le cancer médullaire.
+Tumeurs neuroendocrines : Certains cancers, comme le cancer du poumon à petites cellules, peuvent aussi augmenter la calcitonine.
+Insuffisance rénale chronique : En cas de défaillance rénale, les taux de calcitonine peuvent augmenter car les reins sont moins capables d'excréter le phosphate et d’équilibrer le calcium.
+Taux bas ou normaux de calcitonine :
+
+Pas de pathologie sous-jacente : Des taux bas ou normaux de calcitonine sont généralement rassurants et indiquent l’absence de conditions liées à une hypercalcémie ou à un dysfonctionnement des cellules C thyroïdiennes.
+Conclusion clinique
+La calcitonine n'est pas le seul marqueur à évaluer pour juger du métabolisme phosphocalcique. Elle doit être interprétée avec d'autres examens comme la parathormone (PTH), les niveaux de calcium sérique, le phosphate, ainsi que les bilans de la fonction rénale. Une élévation isolée de la calcitonine doit inciter à rechercher une tumeur des cellules C ou d'autres causes sous-jacentes.

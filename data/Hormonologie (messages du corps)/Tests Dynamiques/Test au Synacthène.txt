@@ -1,0 +1,46 @@
+Analyse Hormonologique : Test au Synacthène (Test dynamique)
+Le test au Synacthène, également appelé test de stimulation à l’ACTH, est un examen dynamique utilisé pour évaluer la fonction surrénalienne, en particulier la réponse de la glande surrénale à l'ACTH (hormone corticotrope). Il est principalement utilisé pour diagnostiquer des troubles tels que l'insuffisance surrénalienne, qui peut être d'origine primaire (maladie d'Addison) ou secondaire (dysfonctionnement hypophysaire).
+
+Principe du Test au Synacthène
+Le test repose sur l'injection d'ACTH synthétique, qui stimule normalement la production de cortisol par les glandes surrénales. L’ACTH (Synacthène) est administrée par voie intraveineuse ou intramusculaire, et les niveaux de cortisol sanguins sont mesurés avant et après l'administration pour observer la réponse des glandes surrénales.
+
+Le test permet de vérifier la capacité de la glande surrénale à produire du cortisol en réponse à un stimulus externe (ACTH). Une réponse altérée indique un dysfonctionnement dans la production de cortisol, ce qui peut signaler une insuffisance surrénalienne.
+
+Modalités du Test
+Le test se fait en deux étapes :
+
+Prélèvement de base : Avant l’injection de Synacthène, un premier prélèvement sanguin est effectué pour mesurer les niveaux basaux de cortisol.
+Injection d'ACTH (Synacthène) : Après un prélèvement de base, une dose d’ACTH est administrée, et des prélèvements supplémentaires sont réalisés à des intervalles spécifiques (généralement 30 et 60 minutes après l'injection) pour mesurer l'augmentation du cortisol sérique.
+Types de Test au Synacthène
+Il existe différentes formes d’ACTH, notamment :
+
+Test à 1 µg (test à faible dose) : Cette méthode est plus courante et consiste en une administration de 1 µg d’ACTH.
+Test à 250 µg (test à haute dose) : Utilisé en cas de suspicion d’insuffisance surrénalienne sévère, ou dans des contextes cliniques particuliers.
+Valeurs normales et Interprétation des Résultats
+Test à faible dose (1 µg) :
+Cortisol basale : Valeur de cortisol avant injection. Elle varie selon les laboratoires, mais est généralement autour de 100–200 nmol/L.
+Cortisol 30 minutes après injection : Un cortisol > 500 nmol/L est considéré comme une réponse normale.
+Cortisol 60 minutes après injection : Un cortisol > 500 nmol/L (souvent entre 500 et 800 nmol/L) est également attendu pour une réponse normale.
+Test à haute dose (250 µg) :
+Cortisol basale : Encore une fois, autour de 100–200 nmol/L.
+Cortisol 30 minutes après injection : Un cortisol devrait augmenter de manière significative et dépasser les 500–700 nmol/L.
+Cortisol 60 minutes après injection : Une augmentation significative est attendue, avec des valeurs supérieures à 700–1000 nmol/L.
+Note : Les valeurs normales peuvent varier légèrement d'un laboratoire à l'autre en fonction des techniques utilisées, mais en général, une réponse adéquate au test est un cortisol qui dépasse 500 nmol/L après stimulation.
+
+Signification clinique des résultats
+1. Réponse normale :
+Cortisol > 500–700 nmol/L après stimulation : Une réponse normale du test indique une fonction surrénalienne intacte. Cela signifie que les glandes surrénales répondent correctement à l'ACTH, et qu'il n'y a pas d'insuffisance surrénalienne.
+2. Insuffisance surrénalienne primaire (Maladie d’Addison) :
+Réponse insuffisante au Synacthène : Si le cortisol ne dépasse pas un seuil de 500 nmol/L après injection, cela peut indiquer une insuffisance surrénalienne primaire, où les glandes surrénales sont incapables de produire suffisamment de cortisol malgré la stimulation par l'ACTH.
+Signes cliniques : Fatigue chronique, hypotension, hyperpigmentation (car l'ACTH est également un précurseur de la mélanine), perte de poids, douleurs abdominales, nausées, hypoglycémie, etc.
+3. Insuffisance surrénalienne secondaire (hypophysaire) :
+Réponse diminuée mais pas nulle : Si la réponse au test est présente mais insuffisante, il est possible que l'insuffisance soit d'origine secondaire, c'est-à-dire due à une déficience en ACTH provenant de l'hypophyse. Dans ce cas, la glande surrénale reste fonctionnelle, mais la stimulation est insuffisante.
+Signes cliniques : Fatigue, faiblesse musculaire, hypotension, mais sans hyperpigmentation.
+4. Syndrome de Cushing (hyperfonction surrénalienne) :
+Réponse excessive : Si les niveaux de cortisol augmentent de manière excessive après l'injection (par exemple, > 1000 nmol/L), cela peut être un signe de production excessive de cortisol, comme c’est le cas dans le syndrome de Cushing.
+Facteurs pouvant interférer avec les résultats
+Médicaments : Certains médicaments peuvent interférer avec la réponse au test, comme les corticostéroïdes, les contraceptifs oraux, ou certains antifongiques.
+Infections aiguës, stress : Un stress aigu ou une infection peut altérer la production de cortisol et influencer les résultats.
+Autres troubles endocriniens : Des anomalies dans les niveaux d'autres hormones (par exemple, des niveaux anormaux de prolactine ou d'œstrogènes) peuvent affecter les résultats.
+Conclusion
+Le test au Synacthène est un outil précieux dans l'évaluation de la fonction surrénalienne et permet de diagnostiquer des conditions telles que l'insuffisance surrénalienne primaire ou secondaire. L'interprétation des résultats dépend de la réponse de la glande surrénale à l'injection d'ACTH. Une réponse adéquate confirme une fonction surrénalienne normale, tandis qu'une réponse inadéquate indique un dysfonctionnement, nécessitant des investigations supplémentaires pour en identifier la cause.

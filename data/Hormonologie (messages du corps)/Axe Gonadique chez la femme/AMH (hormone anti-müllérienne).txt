@@ -1,0 +1,27 @@
+L'hormonologie de l'axe gonadique chez la femme inclut des analyses visant à évaluer les fonctions reproductives et hormonales. L'AMH, ou hormone anti-müllérienne, est un biomarqueur clé utilisé pour mesurer la réserve ovarienne, et son évaluation est essentielle dans le cadre de la fertilité.
+
+Hormone Anti-Müllérienne (AMH)
+L’AMH est une hormone produite par les cellules granulaires des follicules ovariens, principalement dans les follicules en développement, mais elle n'est pas influencée directement par les fluctuations cycliques des hormones comme le LH ou la FSH. L’AMH permet de donner une estimation de la quantité de follicules restants dans les ovaires, autrement dit de la "réserve ovarienne".
+
+Valeurs Normales de l'AMH
+Les valeurs de l'AMH peuvent varier en fonction de l'âge et des laboratoires, mais généralement, les valeurs de référence sont :
+
+Femmes en âge de procréer : 1 à 4 ng/mL (7 à 28 pmol/L)
+Insuffisance ovarienne : <1 ng/mL (<7 pmol/L)
+Réserve ovarienne élevée : >4 ng/mL (>28 pmol/L)
+Les niveaux d'AMH diminuent avec l'âge, car la réserve ovarienne s’épuise progressivement à mesure que les follicules se développent et sont ovulés ou atrophiés.
+
+Signification Clinique
+L’AMH est un indicateur de la fertilité et peut orienter le diagnostic et la prise en charge des patientes dans différents contextes :
+
+Évaluation de la Réserve Ovarienne : Un faible taux d’AMH indique une faible réserve ovarienne, ce qui peut être un facteur de diminution de la fertilité. C'est particulièrement utile pour les femmes envisageant une assistance médicale à la procréation (AMP).
+
+Prédiction de la Réponse à la Stimulation Ovarienne : Les taux d'AMH sont souvent utilisés pour anticiper la réponse aux traitements de stimulation ovarienne en fécondation in vitro (FIV). Un taux élevé d'AMH peut indiquer une forte réponse, mais aussi un risque de syndrome d'hyperstimulation ovarienne (SHO).
+
+Diagnostic du Syndrome des Ovaires Polykystiques (SOPK) : Les femmes avec un SOPK ont généralement des taux d'AMH plus élevés en raison du nombre accru de follicules antraux. Cependant, un taux élevé d'AMH seul ne suffit pas pour diagnostiquer un SOPK ; d'autres critères sont également pris en compte.
+
+Prédiction de la Ménopause : Bien que l'AMH ne prédit pas précisément le moment de la ménopause, des niveaux très faibles peuvent indiquer que la ménopause est proche.
+
+Suivi de Traitement Oncologique : L'AMH peut être surveillée chez les patientes ayant subi des traitements oncologiques pour évaluer les effets sur la réserve ovarienne et planifier une préservation de la fertilité si nécessaire.
+
+En résumé, l’AMH est un indicateur précieux pour évaluer la réserve ovarienne, prédire la réponse aux traitements de fertilité, diagnostiquer des troubles hormonaux comme le SOPK, et orienter les décisions en matière de fertilité et de santé reproductive.
