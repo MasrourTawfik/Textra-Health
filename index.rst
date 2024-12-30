@@ -22,6 +22,7 @@ Bienvenue à Textra-Health's documentation!
    Documentation/Scripts/7_Project.rst
    Documentation/Scripts/8_Project.rst
    Documentation/Scripts/9_Project.rst
+   Documentation/Scripts/10_Project.rst
 
    
    
