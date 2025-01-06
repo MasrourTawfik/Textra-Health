@@ -16,7 +16,7 @@ Les membres :
 --------------
 
     - **Membre 1**: Nguadi Nassira |linkedin_Nassira|
-    - **Membre 2**: Ouzzou ilyas |linkedin_ilyas|
+    - **Membre 2**: Ouzzou ilyass |linkedin_ilyas|
 .. |linkedin_Nassira| image:: ../Images/LinkedIn_Logo.jpeg
     :width: 16
     :height: 16
