@@ -1,0 +1,41 @@
+Les analyses de hormonologie concernant les glandes surrénales incluent la mesure du cortisol, une hormone produite par les glandes surrénales. Le cortisol est essentiel pour la gestion du stress, le métabolisme des glucides, des lipides et des protéines, ainsi que pour la régulation du système immunitaire. Voici les informations détaillées concernant le cortisol sanguin et urinaire, leurs valeurs normales, et leur signification clinique :
+
+1. Cortisol sanguin
+Le cortisol sanguin est mesuré principalement pour évaluer la fonction des glandes surrénales et diagnostiquer des déséquilibres hormonaux tels que le syndrome de Cushing (excès de cortisol) ou la maladie d'Addison (déficit de cortisol).
+
+Valeurs normales :
+
+Matin (8 h) : 5 à 23 µg/dL (ou 138 à 635 nmol/L).
+Après-midi (16 h) : 3 à 13 µg/dL (ou 83 à 359 nmol/L).
+La concentration de cortisol sanguin varie naturellement au cours de la journée, avec un pic le matin (entre 6 h et 8 h) et une baisse en fin de journée, ce qui est appelé le rythme circadien.
+
+Signification clinique des résultats anormaux :
+
+Taux élevé : Peut indiquer un syndrome de Cushing, un stress important, des troubles psychiatriques, ou être lié à la prise de médicaments tels que les corticostéroïdes.
+Taux bas : Peut indiquer la maladie d'Addison, un dysfonctionnement hypophysaire, ou un syndrome de fatigue surrénalienne.
+2. Cortisol urinaire (libre)
+Le cortisol libre urinaire est mesuré pour évaluer la production quotidienne de cortisol, car il reflète la quantité de cortisol libre non liée aux protéines plasmatiques, donc actif. C’est un test de référence pour dépister l’hypercortisolisme.
+
+Valeurs normales :
+
+24 heures : 10 à 100 µg/24h (ou 28 à 280 nmol/24h).
+Ce test nécessite une collecte d'urine sur 24 heures pour obtenir une mesure précise.
+
+Signification clinique des résultats anormaux :
+
+Taux élevé : Suggère un hypercortisolisme, souvent associé au syndrome de Cushing, ou à un stress chronique.
+Taux bas : Peut être un signe de maladie d'Addison ou d’une déficience surrénalienne.
+3. Tests de confirmation
+En présence de résultats anormaux, d'autres tests peuvent être prescrits pour confirmer le diagnostic, tels que :
+
+Test de suppression à la dexaméthasone : Mesure la réponse du cortisol à un stéroïde de synthèse pour déterminer l'origine de l'excès.
+ACTH plasmatique : Pour évaluer si le déséquilibre est d'origine hypophysaire ou surrénalienne.
+4. Interprétation clinique des taux de cortisol
+Hypercortisolisme (Cushing) : Fatigue, prise de poids, hypertension, hyperglycémie, fragilité cutanée.
+Hypocortisolisme (Addison) : Faiblesse musculaire, perte de poids, hypotension, mélanodermie (coloration de la peau).
+Facteurs influençant les niveaux de cortisol
+Stress aigu ou chronique
+Infections, chirurgies ou traumatisme
+Médicaments : Corticostéroïdes, contraceptifs oraux
+Conditions de prélèvement : Heure de prélèvement pour le cortisol sanguin, et collecte correcte de l'urine pour 24 heures pour le cortisol urinaire.
+Ces analyses sont précieuses pour aider les cliniciens à diagnostiquer et à gérer les troubles endocriniens liés aux glandes surrénales, en particulier ceux qui impactent la gestion du stress, le métabolisme et l’immunité.

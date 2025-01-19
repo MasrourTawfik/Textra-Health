@@ -1,0 +1,40 @@
+Les analyses hormonales concernant le métabolisme phosphocalcique, en particulier la PTH (parathormone), sont essentielles pour évaluer l'équilibre entre le calcium et le phosphate dans le corps. La PTH joue un rôle crucial dans la régulation du calcium sanguin en agissant principalement sur les os, les reins et, indirectement, sur l'intestin.
+
+PTH (Parathormone) :
+La parathormone est une hormone sécrétée par les glandes parathyroïdes. Son rôle principal est de maintenir les niveaux de calcium dans le sang dans une fourchette normale. Elle agit en augmentant la libération de calcium des os, en diminuant l'excrétion rénale de calcium et en augmentant l'absorption intestinale du calcium (via la stimulation de la production de vitamine D active).
+
+Valeurs normales de la PTH :
+PTH intacte (PTHi) : La forme la plus couramment mesurée est la PTH intacte, qui a une demi-vie de quelques minutes.
+Les valeurs normales varient selon les laboratoires, mais en général, la concentration de PTH dans le sang est mesurée en pg/mL (picogrammes par millilitre).
+Valeur normale : Entre 10 et 65 pg/mL (en fonction des méthodes et des réactifs utilisés par le laboratoire).
+Rôle de la PTH dans le métabolisme phosphocalcique :
+Os : La PTH stimule les ostéoclastes, ce qui entraîne la libération de calcium et de phosphate dans le sang à partir des os.
+Reins :
+Elle augmente la réabsorption du calcium au niveau des tubules rénaux, réduisant ainsi la perte de calcium dans les urines.
+Elle diminue la réabsorption du phosphate, favorisant son élimination dans l'urine.
+Elle stimule également la conversion de la vitamine D en sa forme active (calcitriol), qui aide à augmenter l'absorption du calcium dans l'intestin.
+Intestin : Par l'intermédiaire de la vitamine D active, elle favorise l'absorption du calcium alimentaire au niveau de l'intestin grêle.
+Signification clinique :
+L'analyse de la PTH est principalement utilisée pour :
+
+Hyperparathyroïdie primaire :
+Cause : Une hyperactivité des glandes parathyroïdes, souvent causée par une tumeur bénigne (adénome parathyroïdien).
+Effets : Cela entraîne une élévation du calcium sanguin (hypercalcémie) avec une PTH augmentée.
+Symptômes : Fatigue, douleurs osseuses, calculs rénaux, troubles digestifs, etc.
+Hypoparathyroïdie :
+Cause : Dysfonctionnement des glandes parathyroïdes entraînant une production insuffisante de PTH, souvent à la suite d'une chirurgie thyroïdienne ou d'une maladie auto-immune.
+Effets : Hypocalcémie (baisse du calcium sanguin) avec une PTH basse.
+Symptômes : Crampes musculaires, spasmes, fourmillements, convulsions.
+Hyperparathyroïdie secondaire :
+Cause : Résulte d'une condition qui abaisse le calcium sanguin, telle qu'une insuffisance rénale chronique ou une carence en vitamine D.
+Effets : La PTH augmente pour compenser le faible taux de calcium.
+Hyperparathyroïdie tertiaire :
+Cause : Dysfonctionnement des glandes parathyroïdes à la suite d'une hyperparathyroïdie secondaire prolongée, souvent chez les patients atteints d’insuffisance rénale chronique. La PTH est anormalement élevée et les niveaux de calcium également.
+Interactions avec d'autres hormones et tests associés :
+Calcium total et ionisé : L’analyse du calcium est généralement couplée avec celle de la PTH pour interpréter correctement les résultats.
+Phosphore (Phosphate) : Les taux de phosphate sanguin sont inversement proportionnels à ceux du calcium et sont également influencés par la PTH.
+Vitamine D (25-OH Vitamine D) : L’évaluation des niveaux de vitamine D est cruciale car la PTH influence son métabolisme.
+Conclusions cliniques :
+Les niveaux de PTH anormaux sont indicateurs d'un déséquilibre dans le métabolisme phosphocalcique, qui peut entraîner des troubles osseux, rénaux et cardiovasculaires. Une interprétation correcte doit être faite en lien avec les taux de calcium, phosphate et vitamine D.
+
+Un médecin spécialiste (endocrinologue) est souvent impliqué dans l'interprétation des résultats et la prise en charge des patients avec des troubles parathyroïdiens.

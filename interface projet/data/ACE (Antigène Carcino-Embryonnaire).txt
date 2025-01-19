@@ -1,0 +1,35 @@
+1. Introduction aux Marqueurs Tumoraux
+
+Les marqueurs tumoraux sont des substances, souvent des protéines, produites soit par les cellules tumorales elles-mêmes soit par l’organisme en réponse à une tumeur. Ces marqueurs peuvent être détectés dans le sang, les urines, ou d'autres fluides corporels. Ils sont utilisés pour :
+
+Détecter la présence de cancers
+Surveiller la progression de la maladie
+Évaluer la réponse au traitement
+Détecter les récidives après un traitement
+Chaque marqueur tumoral est souvent associé à un type spécifique de cancer, même si des chevauchements existent. Il est important de noter qu'un marqueur tumoral élevé n'indique pas toujours un cancer, car des niveaux anormaux peuvent être liés à des maladies bénignes.
+
+2. ACE (Antigène Carcino-Embryonnaire)
+
+Description
+L’antigène carcino-embryonnaire (ACE) est une protéine normalement produite en petites quantités dans le tissu fœtal et quasiment indétectable dans le corps adulte sain. Cependant, chez certains patients atteints de cancer, le taux d'ACE peut être élevé. ACE est particulièrement associé aux cancers colorectaux, mais peut également être augmenté dans d’autres types de cancers, comme ceux du poumon, du pancréas, du sein, et de l'ovaire.
+
+Valeurs Normales d’ACE
+
+Chez les non-fumeurs : < 3 ng/mL (nanogrammes par millilitre)
+Chez les fumeurs : < 5 ng/mL
+Il est essentiel de noter que ces valeurs peuvent varier légèrement selon les laboratoires.
+
+Signification Clinique de l’ACE
+
+Diagnostic et Détection Précoce : ACE n'est pas généralement utilisé pour diagnostiquer un cancer de manière isolée, car des niveaux élevés peuvent également être observés dans des maladies non cancéreuses (par exemple, des infections, des maladies inflammatoires de l’intestin ou la cirrhose).
+Suivi et Surveillance du Traitement : Un taux élevé d'ACE avant traitement qui diminue au cours du traitement peut indiquer une réponse positive au traitement. À l’inverse, si les niveaux augmentent, cela peut suggérer que le cancer ne répond pas au traitement.
+Détection des Récidives : Après le traitement du cancer, un suivi régulier des niveaux d'ACE peut permettre de détecter des récidives. Une augmentation progressive peut signaler la réapparition de la maladie.
+Autres Informations Importantes sur ACE
+
+L’ACE est plus fiable pour surveiller les cancers déjà diagnostiqués que pour détecter de nouveaux cas de cancer.
+En cas de récidive, l'augmentation de l'ACE peut être observée plusieurs mois avant que les symptômes cliniques n’apparaissent, permettant ainsi une intervention précoce.
+3. Points à Connaître pour les Analyses Sérologiques de Marqueurs Tumoraux
+
+Préparation du Patient : Aucune préparation spéciale n’est généralement nécessaire pour l’analyse sérologique de l’ACE, mais il est conseillé d’informer le médecin de tout traitement en cours ou état de santé particulier.
+Utilisation avec D'autres Marqueurs : ACE est souvent utilisé en combinaison avec d’autres marqueurs pour obtenir un diagnostic plus complet. Par exemple, pour les cancers du foie, l'AFP (alpha-foetoprotéine) est aussi mesurée.
+Limitations : Un résultat positif à ACE ne confirme pas nécessairement la présence d'un cancer et doit toujours être interprété dans le contexte clinique du patient.
