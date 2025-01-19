@@ -1,8 +1,9 @@
+# main.py
 from src.services.ocr_service import OCRService
 from src.services.analysis_service import AnalysisService
+from src.services.gemini_service import GeminiService
 from src.interface.app import MedicalAnalysisApp
 from src.utils.config import Config
-
 
 def main():
     # Chargement des configurations
@@ -14,11 +15,11 @@ def main():
         base_url=config.LLMWHISPERER_BASE_URL
     )
     analysis_service = AnalysisService(model_path=config.MODEL_PATH)
+    gemini_service = GeminiService(api_key=config.GEMINI_API_KEY)
 
     # Lancement de l'application
-    app = MedicalAnalysisApp(ocr_service, analysis_service)
+    app = MedicalAnalysisApp(ocr_service, analysis_service, gemini_service)
     app.run()
-
 
 if __name__ == "__main__":
     main()
