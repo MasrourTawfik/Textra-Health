@@ -1,9 +1,8 @@
-# src/services/analysis_service.py
-from typing import Dict
+import os
 import torch
 from langchain.llms import Ollama
-from langchain.embeddings import HuggingFaceEmbeddings
-from langchain.vectorstores import FAISS
+from langchain_community.vectorstores import FAISS
+from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain.chains import RetrievalQA
 from langchain.prompts import PromptTemplate
 import logging
@@ -11,20 +10,25 @@ import logging
 class AnalysisService:
     def __init__(self, model_path: str):
         try:
-            # Initialisation du LLM via Ollama
-            self.llm = Ollama(model="mistral")
+            # Path to the directory containing the FAISS index file
+            faiss_directory = r"C:\Users\pc\Desktop\projet metier masrour\Textra-Health\interface projet"
             
-            # Chargement de votre embedding local
+            # Initialize embeddings model
             self.embeddings = HuggingFaceEmbeddings(
                 model_name=model_path,
                 model_kwargs={'device': 'cuda' if torch.cuda.is_available() else 'cpu'}
             )
             
-            # Chargement de la base de connaissances vectorielle
-            self.vector_store = FAISS.load_local(
-                "chemin/vers/votre/base_vectorielle",
-                self.embeddings
-            )
+            # Check if FAISS index exists
+            faiss_file = os.path.join(faiss_directory, "index.faiss")
+            if not os.path.exists(faiss_file):
+                raise FileNotFoundError(f"FAISS index file not found: {faiss_file}")
+            
+            # Load FAISS index
+            self.vector_store = FAISS.load_local(faiss_directory, self.embeddings, allow_dangerous_deserialization=True)
+            
+            # Initialize the LLM via Ollama
+            self.llm = Ollama(model="mistral")
             
             # Configuration du prompt pour l'analyse médicale
             self.prompt_template = PromptTemplate(
@@ -64,7 +68,7 @@ class AnalysisService:
             logging.error(f"Erreur lors de l'initialisation du service d'analyse: {str(e)}")
             raise
 
-    def analyze_text(self, text: str) -> Dict:
+    def analyze_text(self, text: str):
         """
         Analyse le texte des résultats médicaux en utilisant le système RAG.
         """
@@ -96,7 +100,7 @@ class AnalysisService:
                 "error": f"Erreur lors de l'analyse: {str(e)}"
             }
 
-    def _preprocess_text(self, text: str) -> str:
+    def _preprocess_text(self, text: str):
         """
         Prétraite le texte avant l'analyse.
         """
@@ -106,7 +110,7 @@ class AnalysisService:
         # Ajoutez d'autres étapes de prétraitement si nécessaire
         return text
 
-    def _format_analysis(self, raw_analysis: str) -> str:
+    def _format_analysis(self, raw_analysis: str):
         """
         Formate le résultat de l'analyse pour l'affichage.
         """
