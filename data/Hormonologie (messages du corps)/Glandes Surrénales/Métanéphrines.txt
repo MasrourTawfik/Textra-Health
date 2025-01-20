@@ -1,0 +1,29 @@
+Les analyses de métanéphrines dans le cadre de l'hormonologie des glandes surrénales jouent un rôle crucial dans le diagnostic des tumeurs neuroendocrines, notamment les phéochromocytomes et les paragangliomes. Les métanéphrines (méthanéphrine et normétanéphrine) sont des produits de dégradation des catécholamines (adrénaline, noradrénaline), qui sont produites par les glandes surrénales.
+
+1. Les métanéphrines : définition et utilité clinique
+Les métanéphrines sont des métabolites formés lors de la dégradation des catécholamines :
+
+Méthanéphrine : dérivée de l'adrénaline.
+Normétanéphrine : dérivée de la noradrénaline.
+Leur analyse est particulièrement utile pour :
+
+Diagnostiquer les phéochromocytomes et paragangliomes, des tumeurs rares, souvent bénignes, qui peuvent produire des quantités élevées de catécholamines, entraînant des symptômes de type hypertension, palpitations, maux de tête, et transpiration.
+Exclure un diagnostic de phéochromocytome chez des patients présentant des symptômes non spécifiques mais évocateurs de cette tumeur, car une faible concentration de métanéphrines réduit considérablement les chances de présence d'une tumeur.
+2. Valeurs normales des métanéphrines
+Les valeurs normales peuvent varier légèrement selon les laboratoires, mais voici une référence générale pour les métanéphrines plasmatiques (sanguines) chez les adultes :
+
+Méthanéphrine plasmatique : < 90 pg/mL
+Normétanéphrine plasmatique : < 180 pg/mL
+Pour les métanéphrines urinaires (mesure sur 24 heures), les valeurs de référence sont :
+
+Méthanéphrine urinaire : < 1,3 mg/24h
+Normétanéphrine urinaire : < 2,5 mg/24h
+Ces valeurs peuvent être influencées par l'âge, le sexe, certains médicaments, et même l’état de stress du patient lors du prélèvement.
+
+3. Signification clinique
+Une augmentation des métanéphrines peut indiquer :
+
+Phéochromocytome ou paragangliome : les tumeurs neuroendocrines sécrètent des catécholamines de façon continue ou par à-coups, ce qui entraîne une élévation persistante des métanéphrines.
+Hypertension secondaire : dans certains cas, les élévations modérées des métanéphrines peuvent être associées à des causes secondaires d’hypertension, mais une élévation significative suggère plus fortement une tumeur.
+Autres conditions : des élévations modérées peuvent aussi être observées en cas de stress intense, d’obésité, d’apnée du sommeil, ou de troubles psychiatriques (en raison d’une augmentation des catécholamines).
+En revanche, des valeurs normales de métanéphrines chez un patient symptomatique réduisent fortement la probabilité d'un phéochromocytome.

@@ -1,0 +1,32 @@
+Les analyses de hormonologie pour la thyroïde, particulièrement le dosage de la thyroxine (T4) libre et totale, sont des examens essentiels pour évaluer la santé de la glande thyroïdienne. La thyroïde produit principalement deux hormones  la thyroxine (T4) et la triiodothyronine (T3). La T4 est majoritairement produite, puis transformée en T3, la forme active, dans divers tissus du corps.
+
+1. La thyroxine totale (T4 totale)
+La T4 totale inclut la fraction liée aux protéines de transport dans le sang et la fraction libre. Cette mesure donne une vue globale de la thyroxine circulante, mais elle peut être influencée par la quantité de protéines de transport, comme la thyroxine-binding globulin (TBG), la principale protéine liant la T4.
+
+Valeurs normales de la T4 totale 
+
+Adulte  environ 5 à 12 µgdL (microgrammes par décilitre).
+Ces valeurs peuvent varier légèrement selon les laboratoires.
+Signification clinique 
+
+Une T4 totale élevée peut indiquer une hyperthyroïdie (hyperfonctionnement de la thyroïde), des niveaux élevés de TBG (causés, par exemple, par une grossesse ou des traitements hormonaux).
+Une T4 totale basse peut être signe d’hypothyroïdie (hypofonctionnement de la thyroïde) ou d’une diminution de la TBG (due à certaines maladies ou médicaments).
+2. La thyroxine libre (T4 libre)
+La T4 libre est la fraction non liée aux protéines, directement active dans le corps. Ce dosage est souvent préféré car il n’est pas affecté par les variations des protéines de transport.
+
+Valeurs normales de la T4 libre 
+
+Adulte  environ 0,8 à 2,0 ngdL (nanogrammes par décilitre) ou 10 à 26 pmolL (picomoles par litre).
+Les valeurs de référence peuvent varier en fonction des méthodes et des laboratoires.
+Signification clinique 
+
+Une T4 libre élevée indique souvent une hyperthyroïdie, qui peut se manifester par des symptômes tels que nervosité, perte de poids, palpitations, et intolérance à la chaleur.
+Une T4 libre basse est un signe d’hypothyroïdie, provoquant de la fatigue, un gain de poids, une intolérance au froid, et une lenteur des fonctions corporelles.
+3. Interprétation clinique combinée avec d’autres tests
+Les résultats des tests T4 totale et T4 libre sont généralement interprétés avec ceux de la TSH (hormone thyroïdienne stimulant la thyroïde), qui est produite par l'hypophyse et régule la production de T4 et de T3 par la thyroïde.
+
+TSH élevée et T4 libre basse  Hypothyroïdie primaire (thyroïde insuffisamment active).
+TSH basse et T4 libre élevée  Hyperthyroïdie primaire.
+TSH basse et T4 libre normalebasse  Possibilité d’hypothyroïdie secondaire, causée par un problème au niveau de l’hypophyse.
+4. Indications pour réaliser ces analyses
+Les analyses de T4 libre et totale sont recommandées en cas de symptômes évocateurs de troubles thyroïdiens (fatigue, priseperte de poids inexpliquée, anomalies menstruelles, problèmes de mémoire, irritabilité) ou dans le suivi d’un traitement de troubles thyroïdiens déjà diagnostiqués.

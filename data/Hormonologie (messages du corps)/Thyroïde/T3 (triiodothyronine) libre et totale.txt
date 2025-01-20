@@ -1,0 +1,28 @@
+Les analyses hormonales de la thyroïde, notamment les dosages de la T3 libre et totale (triiodothyronine), permettent de mesurer les niveaux d'une hormone clé produite par la thyroïde. Ces tests sont essentiels pour évaluer la fonction thyroïdienne et diagnostiquer certaines pathologies comme l'hyperthyroïdie, l'hypothyroïdie, et d'autres troubles thyroïdiens.
+
+1. Qu'est-ce que la T3 ?
+La T3, ou triiodothyronine, est une hormone thyroïdienne active qui joue un rôle crucial dans la régulation du métabolisme, de la température corporelle, et de la fréquence cardiaque. La T3 est produite par la glande thyroïde, soit directement soit en étant convertie à partir de la thyroxine (T4), l'autre hormone thyroïdienne principale.
+
+Il existe deux formes de T3 :
+
+T3 Totale : Mesure la quantité totale de T3 dans le sang, incluant celle liée aux protéines.
+T3 Libre : Mesure la T3 non liée aux protéines, donc directement active et disponible pour les cellules.
+2. Valeurs Normales de la T3
+Les valeurs normales peuvent légèrement varier en fonction du laboratoire et des méthodes d’analyse. En général :
+
+T3 Totale : 0,8 à 2,0 ng/mL (nanogrammes par millilitre).
+T3 Libre : 2,3 à 4,2 pg/mL (picogrammes par millilitre).
+Ces valeurs peuvent aussi être exprimées en pmol/L selon les unités utilisées.
+
+3. Signification Clinique des Résultats
+T3 Totale
+Élevée : Une T3 totale élevée peut indiquer un état d'hyperthyroïdie, dans lequel la glande thyroïde produit trop d'hormones. Elle peut être observée dans la maladie de Basedow (ou de Graves), le goitre multinodulaire toxique, et certaines thyroïdites.
+Basse : Une T3 totale faible peut indiquer une hypothyroïdie, où la thyroïde est sous-active, ou des situations de stress physiologique aigu (maladie non-thyroïdienne), où le corps réduit la production active de T3 pour économiser l'énergie.
+T3 Libre
+Élevée : La T3 libre est un indicateur plus précis de l’hyperthyroïdie, car elle reflète la quantité d'hormone active dans le sang. Un taux élevé de T3 libre est associé aux mêmes pathologies que celles d'une T3 totale élevée.
+Basse : Une T3 libre basse suggère souvent une hypothyroïdie, et dans certains cas des troubles non-thyroïdiens (maladies graves ou inflammations) où le corps limite l'action de la thyroïde.
+4. Applications Cliniques
+Hyperthyroïdie : La T3 libre est souvent l’un des premiers marqueurs à augmenter dans les cas d’hyperthyroïdie. Un taux élevé de T3 libre avec des niveaux normaux de T4 (thyroxine) peut indiquer une hyperthyroïdie dite "T3-toxique".
+Hypothyroïdie : Les taux de T3 sont habituellement bas, mais la T3 est moins utilisée que la T4 pour diagnostiquer l'hypothyroïdie primaire.
+Syndrome de basse T3 : Dans les maladies chroniques sévères, on peut observer une réduction de la T3 libre et totale, connue sous le nom de syndrome de basse T3 ou syndrome euthyroïdien malade.
+Ces tests de T3 sont souvent accompagnés de dosages de TSH (hormone thyréostimulante) et de T4 pour donner un aperçu global de la fonction thyroïdienne et de mieux comprendre les déséquilibres hormonaux présents.

@@ -1,0 +1,28 @@
+L’axe gonadique chez l'homme, aussi appelé axe hypothalamo-hypophyso-gonadique, régule la production de plusieurs hormones, dont la testostérone. Cette hormone est essentielle pour le développement sexuel masculin, la spermatogenèse, ainsi que la libido et la fonction musculaire. Dans le cadre d'analyses hormonales, la testostérone totale et la testostérone libre sont mesurées pour évaluer l'état de cet axe.
+
+1. Testostérone Totale
+La testostérone totale inclut la somme de la testostérone libre et de la testostérone liée aux protéines plasmatiques (principalement la SHBG - Sex Hormone Binding Globulin - et l'albumine).
+
+Valeurs normales de la testostérone totale :
+Homme adulte : 2.7 à 10 ng/mL (ou 270 à 1000 ng/dL)
+Les valeurs peuvent varier selon les laboratoires, les méthodes de mesure et l’âge du patient.
+Signification clinique :
+Testostérone basse (inférieure à 2.7 ng/mL) : peut indiquer un hypogonadisme, qui se manifeste par des symptômes comme la fatigue, la diminution de la libido, des troubles de l’érection, la perte de masse musculaire, ou des changements de l'humeur. Ce déficit peut être primaire (lié aux testicules) ou secondaire (lié à des troubles de l’hypophyse ou de l’hypothalamus).
+Testostérone élevée : Peut être causée par des tumeurs des testicules ou des glandes surrénales, ou par un usage de stéroïdes anabolisants.
+2. Testostérone Libre
+La testostérone libre est la fraction de testostérone non liée aux protéines plasmatiques, donc biologiquement active. Elle représente environ 1 à 2 % de la testostérone totale.
+
+Valeurs normales de la testostérone libre :
+Homme adulte : 5 à 25 ng/dL
+Ces valeurs peuvent également varier selon les laboratoires et les techniques de mesure.
+Signification clinique :
+Testostérone libre basse : Un taux bas de testostérone libre est souvent un meilleur indicateur de déficit en testostérone que la testostérone totale, surtout chez les hommes plus âgés. Cela peut également signifier un hypogonadisme.
+Testostérone libre élevée : Peut aussi indiquer des causes similaires à celles de la testostérone totale élevée, comme une tumeur ou une prise de stéroïdes.
+Facteurs influençant les taux de testostérone :
+Âge : La testostérone diminue naturellement avec l’âge, ce qui peut mener à des symptômes de déficit.
+SHBG : Une variation du taux de SHBG peut influencer la proportion de testostérone libre. Par exemple, un taux élevé de SHBG (souvent observé chez les personnes âgées ou en cas de maladie hépatique) réduit la testostérone libre.
+Obésité : Est associée à une diminution des taux de testostérone totale et libre, en raison d'une augmentation de l'aromatisation (conversion de la testostérone en œstrogène) dans les tissus adipeux.
+Autres examens complémentaires :
+FSH et LH : Les hormones folliculo-stimulante (FSH) et lutéinisante (LH), produites par l’hypophyse, sont souvent mesurées en parallèle pour identifier la cause d’un hypogonadisme.
+SHBG : Peut être dosée pour interpréter plus précisément la testostérone libre, car des variations de cette protéine modifient la proportion de testostérone biologiquement active.
+Ces analyses sont essentielles pour évaluer la fonction testiculaire, l’état de santé reproductif et l'équilibre hormonal général chez l'homme. Un examen clinique détaillé, associé à l'interprétation des résultats hormonaux, est nécessaire pour poser un diagnostic et envisager des traitements éventuels (comme la thérapie de remplacement en testostérone en cas de déficit).
