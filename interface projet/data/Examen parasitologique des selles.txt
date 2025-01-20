@@ -1,0 +1,40 @@
+Examen Parasitologique des Selles (EPS)
+L'examen parasitologique des selles (EPS) est une analyse de laboratoire utilisée pour détecter la présence de parasites dans les selles d'une personne. Cet examen est fréquemment prescrit pour diagnostiquer des infections parasitaires gastro-intestinales.
+
+Objectifs de l'Examen
+L'EPS est utilisé pour :
+
+Diagnostiquer les infections parasitaires comme les amibiases, giardiases, ou les helminthiases (causées par des vers).
+Contrôler l'efficacité d'un traitement antiparasitaire.
+Étudier des symptômes digestifs inexpliqués, tels que des diarrhées persistantes, douleurs abdominales, ballonnements, ou malabsorption.
+Valeurs Normales
+Une valeur normale de l'examen indique l'absence de parasites visibles dans les selles. Cela signifie qu'aucun organisme pathogène (protozoaires, œufs, larves de vers) n'a été trouvé.
+
+Signification Clinique d'une Anomalie
+Si des parasites sont détectés, l'interprétation varie en fonction du type et de la quantité trouvés.
+
+Protozoaires :
+
+Entamoeba histolytica : Responsable de l'amibiase, une infection souvent associée à des douleurs abdominales et diarrhées. Elle peut entraîner des complications hépatiques.
+Giardia intestinalis : Provoque la giardiase, une infection fréquemment liée à des diarrhées aqueuses, crampes, et ballonnements.
+Cryptosporidium : Un parasite responsable de diarrhées sévères, notamment chez les personnes immunodéprimées (VIH).
+Helminthes (vers) :
+
+Ascaris lumbricoides : Un ver rond qui provoque une infection nommée ascaridiose. Symptômes : douleurs abdominales, vomissements, occlusions intestinales.
+Taenia (ver solitaire) : Provoque la taeniasis, infection souvent asymptomatique, mais pouvant entraîner des troubles digestifs (nausées, perte d'appétit).
+Trichuris trichiura : Provoque la trichocéphalose, infection généralement associée à des diarrhées, anémie, et retard de croissance chez les enfants.
+Procédure d'Examen
+Collecte des selles : Le patient doit fournir un échantillon de selles, de préférence sur plusieurs jours, car l'excrétion des parasites peut être intermittente.
+Analyse microscopique : Les selles sont analysées au microscope pour détecter des œufs, larves ou parasites adultes.
+Tests complémentaires : Des techniques comme l'immunofluorescence ou la PCR (réaction en chaîne par polymérase) peuvent être utilisées pour identifier certains parasites difficiles à visualiser au microscope.
+Signification des Résultats
+Positif : Présence d'œufs, larves, kystes, ou formes adultes de parasites, indiquant une infection active.
+Négatif : Aucun parasite détecté, mais un résultat négatif ne garantit pas l'absence totale de parasites. Dans certains cas, des analyses répétées sont nécessaires.
+Conséquences Cliniques
+En cas de résultat positif, un traitement antiparasitaire spécifique est prescrit selon le type de parasite (par exemple, métronidazole pour l’amibiase, albendazole pour l’ascaridiose).
+Si non traité, certaines infections parasitaires peuvent entraîner des complications graves comme la déshydratation, l'anémie, des lésions tissulaires, voire des infections systémiques (amibiase hépatique, cysticercose due au Taenia).
+Prévention
+L'hygiène alimentaire et des mains est cruciale pour prévenir les infections parasitaires, notamment dans les régions où ces infections sont endémiques.
+
+Conclusion
+L'examen parasitologique des selles est un outil clé pour le diagnostic des infections gastro-intestinales d'origine parasitaire. Il aide à identifier et traiter rapidement des pathogènes responsables de symptômes parfois graves, particulièrement chez les personnes fragiles. Un résultat normal indique l'absence de parasites, mais des tests répétés peuvent être nécessaires pour une confirmation complète.

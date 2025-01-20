@@ -1,0 +1,30 @@
+La Protéine C-Réactive (CRP) est un marqueur inflammatoire produit principalement par le foie en réponse à une inflammation aiguë ou chronique. Son dosage dans le sang permet d’évaluer la présence et l’intensité de l’inflammation dans le corps, jouant un rôle clé dans le diagnostic et le suivi de nombreuses maladies inflammatoires, infectieuses, et certaines affections cardiovasculaires.
+
+1. Nature et rôle de la CRP
+La CRP est une protéine de phase aiguë, ce qui signifie qu’elle est rapidement produite en grande quantité par le foie en réponse aux cytokines pro-inflammatoires, notamment l'IL-6, libérées en cas de dommage tissulaire, infection, ou inflammation. Sa production augmente dans les heures qui suivent l’apparition d’une inflammation, atteignant son pic en 24 à 48 heures. Son rôle est de faciliter la phagocytose et l’élimination des agents pathogènes et des cellules mortes, participant ainsi à la réaction inflammatoire et immunitaire.
+
+2. Valeurs normales de la CRP
+Les valeurs normales de la CRP dans le sang sont généralement basses chez les individus en bonne santé. Les normes de référence peuvent légèrement varier selon les laboratoires, mais en général, les valeurs sont interprétées comme suit :
+
+CRP normale : ≤ 5 mg/L (certains laboratoires fixent le seuil à 3 mg/L)
+CRP élevée : > 10 mg/L, ce qui indique une inflammation significative ou une infection
+CRP très élevée : ≥ 100 mg/L, pouvant signaler une infection bactérienne sévère, une inflammation aiguë, ou des lésions tissulaires importantes (ex. : infarctus, chirurgie).
+Dans le cadre d’un suivi de santé cardiovasculaire, on utilise également la CRP ultra-sensible (CRP-us), capable de détecter des niveaux de CRP aussi bas que 0,1 mg/L, permettant d’évaluer le risque de maladies cardiovasculaires.
+
+3. Signification clinique et interprétation des valeurs de la CRP
+Valeurs basses à normales : Elles indiquent généralement l’absence d’inflammation ou une inflammation de très faible niveau. Chez une personne en bonne santé, les valeurs inférieures à 1 mg/L sont associées à un faible risque cardiovasculaire.
+
+Valeurs légèrement élevées (5-10 mg/L) : Elles peuvent indiquer une inflammation légère ou chronique, souvent associée à des infections virales légères, des maladies inflammatoires modérées, ou des conditions comme le diabète, l'obésité, ou des désordres métaboliques.
+
+Valeurs modérément élevées (10-100 mg/L) : Elles sont souvent observées en cas d'infections bactériennes modérées, de maladies inflammatoires systémiques (comme la polyarthrite rhumatoïde, les maladies auto-immunes), de traumatismes, ou de chirurgies récentes.
+
+Valeurs très élevées (>100 mg/L) : Elles indiquent une inflammation intense, souvent associée à des infections bactériennes sévères (ex. : pneumonies bactériennes, septicémies), des cancers avancés, des infarctus du myocarde ou des lésions tissulaires majeures.
+
+4. Applications cliniques
+La CRP est largement utilisée pour :
+
+Diagnostiquer et surveiller les infections aiguës : en particulier les infections bactériennes graves.
+Suivi des maladies inflammatoires : comme la polyarthrite rhumatoïde, les maladies inflammatoires de l’intestin (MICI), et les maladies auto-immunes.
+Évaluation des risques cardiovasculaires : avec la CRP-us pour détecter une inflammation de bas grade associée au risque de maladies coronariennes et d’accidents vasculaires cérébraux (AVC).
+Suivi post-opératoire et des traumatismes : pour détecter rapidement une infection ou une complication inflammatoire.
+En résumé, le dosage de la CRP est un outil diagnostique précieux en raison de sa sensibilité rapide aux changements inflammatoires, bien que sa spécificité reste limitée, car elle ne permet pas d’identifier précisément la cause de l’inflammation.

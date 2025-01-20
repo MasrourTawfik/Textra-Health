@@ -1,0 +1,24 @@
+Le test d’hypoglycémie insulinique est un examen de stimulation hormonal souvent utilisé pour évaluer l'intégrité de l'axe hypothalamo-hypophyso-surrénalien (HHS) et pour tester la fonction de l'hormone de croissance (GH). Il s'agit d'un test dynamique couramment prescrit en endocrinologie pour diagnostiquer des troubles hormonaux, en particulier l'insuffisance surrénalienne ou le déficit en hormone de croissance.
+
+1. Principe du Test d'Hypoglycémie Insulinique
+Ce test implique l'injection d'insuline rapide dans le but de provoquer une hypoglycémie contrôlée, ce qui constitue un stress métabolique important pour l'organisme.
+En réponse à cette hypoglycémie, l’organisme normal stimule la libération de plusieurs hormones, notamment l'hormone de croissance (GH), l'adrénocorticotrope (ACTH) et le cortisol.
+Le test est particulièrement utile pour évaluer la capacité de la glande pituitaire (hypophyse) à répondre au stress, via la production d’ACTH et GH, et indirectement celle des glandes surrénales via la production de cortisol.
+2. Déroulement du Test
+Le test se déroule en hôpital ou clinique spécialisée, avec surveillance médicale.
+Avant de débuter le test, la glycémie de base du patient est mesurée.
+Une dose d'insuline est administrée par voie intraveineuse pour atteindre une hypoglycémie (typiquement, la glycémie doit descendre en dessous de 2,2 mmol/L ou 40 mg/dL).
+Ensuite, des prélèvements sanguins sont effectués à intervalles réguliers pour mesurer la glycémie, l’ACTH, le cortisol, et la GH, en réponse à cette hypoglycémie induite.
+3. Valeurs Normales et Interprétation
+Valeurs normales attendues :
+Cortisol : Les valeurs normales du cortisol en réponse à l’hypoglycémie sont généralement supérieures à 18 µg/dL (ou 500 nmol/L) à 30–60 minutes après l’administration d’insuline.
+Hormone de Croissance (GH) : La GH doit atteindre des niveaux supérieurs à 10 ng/mL.
+Signification clinique :
+Insuffisance surrénalienne : Si les niveaux de cortisol ne s'élèvent pas suffisamment en réponse à l’hypoglycémie, cela peut indiquer une insuffisance surrénalienne. Une réponse insuffisante de l'ACTH pourrait également suggérer un dysfonctionnement hypophysaire.
+Déficit en hormone de croissance : Une réponse insuffisante de la GH (inférieure à 10 ng/mL) peut signaler un déficit en hormone de croissance, ce qui est souvent investigué dans les cas de retard de croissance chez les enfants ou de fatigue chronique chez les adultes.
+4. Précautions et Contre-Indications
+Ce test présente des risques, notamment une hypoglycémie sévère, et n'est pas sans contre-indications. Il est contre-indiqué chez les patients ayant des antécédents de troubles convulsifs ou de pathologies cardiaques sévères.
+La préparation du patient est cruciale, incluant un jeûne préalable et la surveillance rigoureuse pendant et après le test pour éviter les complications.
+5. Conclusion
+Le test d’hypoglycémie insulinique est un outil diagnostique robuste pour évaluer la réponse hormonale à un stress métabolique, aidant au diagnostic de déficiences au niveau de l'axe HHS.
+Bien que complexe et potentiellement risqué, il reste une référence pour les diagnostics d'insuffisance hypophysaire ou surrénalienne lorsqu'il est effectué dans des conditions contrôlées.

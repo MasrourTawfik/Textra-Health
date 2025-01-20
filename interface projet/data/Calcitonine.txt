@@ -1,0 +1,35 @@
+La calcitonine est une hormone produite principalement par les cellules C (ou cellules parafolliculaires) de la glande thyroïde. Elle joue un rôle clé dans la régulation du métabolisme du calcium et du phosphate en diminuant la concentration de calcium sanguin. Voici un résumé détaillé des analyses de la calcitonine et de leur signification clinique :
+
+Valeurs normales de la calcitonine :
+Les valeurs normales peuvent varier légèrement en fonction des laboratoires et des méthodes de mesure utilisées, mais en général, les concentrations de calcitonine dans le sérum sont les suivantes :
+
+Chez l'adulte : < 10 pg/mL (picogrammes par millilitre)
+Chez les nouveau-nés : Les niveaux peuvent être plus élevés, jusqu'à 20 pg/mL.
+Ces valeurs peuvent varier en fonction du sexe, de l'âge et de l'état physiologique du patient.
+
+Rôle de la calcitonine :
+La calcitonine joue plusieurs rôles dans l’organisme :
+
+Régulation du calcium sanguin : Elle abaisse la concentration de calcium dans le sang en inhibant l'activité des ostéoclastes (cellules responsables de la dégradation osseuse) et en réduisant la libération de calcium des os.
+Effet sur les reins : Elle augmente l'excrétion de calcium et de phosphate dans l'urine, contribuant ainsi à la régulation de ces minéraux.
+Régulation du métabolisme du phosphate : Elle réduit également la concentration de phosphate sanguin en favorisant son élimination rénale.
+Indications de la mesure de la calcitonine :
+Les dosages de calcitonine peuvent être effectués dans diverses situations cliniques, notamment pour :
+
+Diagnostic du cancer médullaire de la thyroïde (CMT) : L'élévation de la calcitonine est un marqueur très sensible du cancer médullaire de la thyroïde, une forme rare de cancer thyroïdien.
+Évaluation du fonctionnement de la thyroïde : Bien que la calcitonine ne soit pas un marqueur de routine pour évaluer la fonction thyroïdienne (par exemple, la production de thyroxine), elle peut être mesurée lorsqu'une pathologie thyroïdienne spécifique est suspectée.
+Suivi post-opératoire : Après une intervention chirurgicale pour un cancer médullaire de la thyroïdienne, les niveaux de calcitonine peuvent être utilisés pour surveiller la récidive de la maladie.
+Évaluation des troubles métaboliques du calcium : Bien que rarement utilisé à cet effet, le dosage de la calcitonine peut aussi être réalisé dans le cadre de troubles du métabolisme du calcium.
+Signification clinique de la calcitonine élevée :
+Cancer médullaire de la thyroïde (CMT) : Une élévation importante de la calcitonine est fortement indicative de ce type de cancer. Un test de calcitonine est souvent utilisé pour le dépistage de cette tumeur chez les individus présentant des antécédents familiaux.
+Hyperplasie des cellules C : Une prolifération bénigne des cellules C de la glande thyroïde peut également entraîner une élévation modérée de la calcitonine.
+Troubles rénaux : Dans les troubles rénaux graves, la calcitonine peut être élevée en raison de la réduction de son excrétion.
+Autres cancers : Parfois, une élévation modérée peut être observée dans des cas de cancers non thyroïdiens, comme le cancer du poumon, le cancer du sein ou le cancer de l'estomac, bien que cela soit moins fréquent.
+Signification clinique d'une calcitonine basse ou normale :
+Une calcitonine normale ou basse ne permet pas de conclure à un cancer médullaire de la thyroïde, mais cela n'exclut pas d'autres types de cancers ou de pathologies thyroïdiennes. En revanche, une calcitonine dans la plage normale peut indiquer que le cancer médullaire est absent ou non significatif au moment de l'analyse.
+Facteurs influençant les niveaux de calcitonine :
+Alimentation riche en calcium : Cela peut entraîner une légère élévation de la calcitonine.
+Stress : Le stress physique ou émotionnel peut augmenter les niveaux de calcitonine.
+Médicaments : Certains médicaments comme les inhibiteurs de la pompe à protons (IPP) et les œstrogènes peuvent modifier les niveaux de calcitonine.
+Conclusion :
+La calcitonine est un marqueur clé dans le diagnostic et le suivi de certaines affections thyroïdiennes, en particulier le cancer médullaire de la thyroïde. Des niveaux élevés de calcitonine peuvent suggérer la présence de ce type de cancer, mais doivent être interprétés en fonction d'autres examens cliniques et biologiques.

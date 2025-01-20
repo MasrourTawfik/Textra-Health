@@ -1,0 +1,28 @@
+Le test de tolérance au glucose (TTG) est un test dynamique crucial pour diagnostiquer et surveiller des désordres du métabolisme des glucides, tels que le diabète, l’intolérance au glucose, et l'hypoglycémie fonctionnelle. L'analyse hormonologique associée à ce test mesure les réactions hormonales, particulièrement l'insuline, en réponse à une charge de glucose. Voici une vue d'ensemble détaillée :
+
+1. Le Test de Tolérance au Glucose (TTG)
+But : Ce test évalue la capacité de l’organisme à gérer un apport en glucose et détecte des anomalies dans la régulation de la glycémie.
+Procédure :
+À jeun : Le patient est à jeun (pas de nourriture ni boisson sauf de l'eau) depuis 8 à 12 heures.
+Dose de glucose : Une solution contenant 75g de glucose (pour les adultes) ou 1,75g/kg pour les enfants est ingérée par le patient.
+Prélèvements sanguins : Des échantillons sanguins sont prélevés à intervalles réguliers (souvent à 0, 30, 60, 90, et 120 minutes) pour mesurer la glycémie.
+2. Valeurs Normales et Interprétation
+Les valeurs sont exprimées en mg/dL (ou mmol/L dans certains pays).
+Valeurs normales :
+À jeun : 70-100 mg/dL (3,9-5,5 mmol/L)
+Après 2 heures : <140 mg/dL (<7,8 mmol/L)
+Significations cliniques :
+Normale : Glycémie <140 mg/dL après 2 heures.
+Intolérance au glucose (prédiabète) : Glycémie entre 140-199 mg/dL après 2 heures.
+Diabète : Glycémie ≥200 mg/dL après 2 heures.
+La réponse de la glycémie dépend de l'efficacité avec laquelle l'insuline est produite et utilisée pour faciliter l'absorption du glucose par les cellules.
+3. Analyses Hormonologiques Associées
+En plus de la glycémie, il est souvent important de mesurer la sécrétion d'insuline pendant le TTG pour comprendre le profil hormonal :
+Insulinémie : Elle révèle la réponse insulinique et peut montrer une hyperinsulinémie (excès d'insuline), souvent présente dans l'insulinorésistance.
+Autres hormones : Des dosages d'autres hormones (comme le glucagon et les incrétines) sont parfois ajoutés pour évaluer la réponse glucagonique et l'effet des hormones intestinale sur la sécrétion d'insuline.
+4. Signification Clinique
+Normoglycémie : Si la glycémie reste dans les limites normales, cela indique une bonne régulation du glucose et une réponse insulinique adéquate.
+Diabète : Une glycémie élevée même après 2 heures signale une hyperglycémie et est diagnostique du diabète.
+Insulinorésistance : Une sécrétion élevée d'insuline avec des valeurs de glucose normales peut signaler une résistance à l'insuline, ce qui est souvent un précurseur du diabète de type 2.
+Hypoglycémie fonctionnelle : Certains patients présentent une baisse de glycémie excessive (hypoglycémie réactionnelle) environ 2-4 heures après la charge de glucose, indiquant une hyperréactivité de la sécrétion d'insuline.
+Ce test est une référence importante pour les endocrinologues dans le suivi et la prise en charge des troubles du métabolisme glucidique. La combinaison des analyses glycémique et insulinique, en particulier dans le contexte des tests dynamiques, apporte une image plus complète de la fonction endocrinienne.

@@ -1,0 +1,39 @@
+La vitesse de sédimentation des érythrocytes (VS) est un test de laboratoire simple et couramment utilisé pour mesurer indirectement le niveau d'inflammation dans le corps. C'est un indicateur de la présence d’une inflammation ou d’une infection, mais elle n'indique pas précisément la cause ou l'emplacement de celle-ci. La VS est couramment utilisée pour diagnostiquer et surveiller des maladies inflammatoires, auto-immunes, ou infectieuses.
+
+Principe de la Vitesse de Sédimentation (VS)
+La VS mesure la vitesse à laquelle les globules rouges (érythrocytes) se déposent au fond d'un tube vertical contenant du sang anticoagulé sur une période d'une heure. Si le taux de VS est élevé, cela indique que les globules rouges tombent plus rapidement, ce qui est souvent causé par la présence de protéines anormales dans le sang, liées à l'inflammation, qui augmentent la viscosité et l’agrégation des globules rouges.
+
+Valeurs normales de la VS
+Les valeurs normales de la VS peuvent varier en fonction de l’âge et du sexe. Elles sont souvent exprimées en millimètres par heure (mmh) et sont généralement 
+
+Hommes  0-15 mmh
+Femmes  0-20 mmh
+Personnes âgées  peut être légèrement plus élevée, sans indiquer une maladie pathologique
+Signification clinique de la VS
+Un taux de VS élevé n'est pas spécifique et peut être associé à plusieurs conditions, notamment 
+
+Infections  La VS peut être élevée dans le cas de nombreuses infections bactériennes, virales ou fongiques.
+
+Maladies inflammatoires et auto-immunes 
+
+Polyarthrite rhumatoïde
+Lupus érythémateux systémique
+Maladie de Crohn ou colite ulcéreuse
+Vasculites
+Cancers  Certains types de cancers, comme les lymphomes, myélomes multiples et cancers métastatiques, peuvent entraîner une augmentation de la VS.
+
+Autres conditions  Les maladies rénales chroniques, les anémies, et certains désordres hormonaux peuvent également augmenter la VS.
+
+Limitations de la VS
+La VS est un indicateur sensible mais non spécifique 
+
+Ne permet pas de localiser l’inflammation ni d’identifier sa cause spécifique.
+Peut être influencée par d'autres facteurs, comme l’anémie ou la grossesse, qui peuvent augmenter les valeurs sans indication d’inflammation.
+Intégration avec d'autres marqueurs inflammatoires
+La VS est souvent interprétée en association avec la protéine C-réactive (CRP) qui est un autre marqueur inflammatoire. La CRP a l’avantage de réagir plus rapidement que la VS et peut donc être utile dans le suivi à court terme de l’inflammation. En général 
+
+VS élevée + CRP élevée  indique une inflammation active.
+VS normale + CRP élevée  peut indiquer une infection ou une inflammation aiguë.
+VS élevée + CRP normale  est souvent associée à des conditions chroniques, comme certaines maladies auto-immunes.
+Interprétation et suivi
+La VS est utilisée pour suivre l'évolution des maladies inflammatoires et auto-immunes. Une diminution progressive de la VS sous traitement peut indiquer une bonne réponse thérapeutique, alors qu'une VS persistante ou élevée malgré le traitement peut suggérer une activité inflammatoire continue.
