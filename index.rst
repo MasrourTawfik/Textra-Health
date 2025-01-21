@@ -14,16 +14,12 @@ Bienvenue à Textra-Health's documentation!
    :caption: Table des matières:
 
    Documentation/Scripts/2_Equipe.rst
-   Documentation/Scripts/1_Project.rst
-   Documentation/Scripts/3_Project.rst
-   Documentation/Scripts/4_Project.rst
-   Documentation/Scripts/5_Project.rst
-   Documentation/Scripts/6_Project.rst
-   Documentation/Scripts/7_Project.rst
-   Documentation/Scripts/8_Project.rst
-   Documentation/Scripts/9_Project.rst
-   Documentation/Scripts/10_Project.rst
-
+   Documentation/Scripts/Pipeline.rst
+   Documentation/Scripts/OCR.rst
+   Documentation/Scripts/Dataset.rst
+   Documentation/Scripts/Qlora.rst
+   Documentation/Scripts/embedding.rst
+   
    
    
    
