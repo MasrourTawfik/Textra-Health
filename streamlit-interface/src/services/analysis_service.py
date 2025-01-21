@@ -11,7 +11,7 @@ class AnalysisService:
     def __init__(self, model_path: str):
         try:
             # Path to the directory containing the FAISS index file
-            faiss_directory = r"C:\Users\pc\Desktop\projet metier masrour\Textra-Health\interface projet"
+            faiss_directory = r"C:\Users\pc\Desktop\interface projet"
             
             # Initialize embeddings model
             self.embeddings = HuggingFaceEmbeddings(
@@ -33,17 +33,15 @@ class AnalysisService:
             # Configuration du prompt pour l'analyse médicale
             self.prompt_template = PromptTemplate(
                 template="""En tant qu'assistant médical, analysez les résultats d'analyses sanguines suivants.
-                Utilisez le contexte fourni pour interpréter les valeurs et fournir une analyse détaillée.
 
                 Contexte: {context}
                 
                 Résultats à analyser: {question}
 
                 Veuillez fournir:
-                1. Une validation des valeurs par rapport aux normes
+                1. Une validation des valeurs par rapport aux normes (la valeur doit etre dans l'intervale des valeurs normales)
                 2. Une identification des anomalies éventuelles
                 3. Une interprétation clinique
-                4. Des recommandations si nécessaire
 
                 Analyse:""",
                 input_variables=["context", "question"]
