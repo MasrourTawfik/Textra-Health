@@ -8,7 +8,7 @@ Ce document détaille l'architecture et le fonctionnement du pipeline de traitem
 
 I. Présentation du Pipeline
 ==========================
-.. figure:: /Documentation/Images/Pipeline.jpeg
+.. figure:: /Documentation/Images/Pipeline.png
    :width: 100%
    :align: center
    :alt: Pipeline de traitement des analyses sanguines
