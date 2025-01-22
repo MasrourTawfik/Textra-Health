@@ -1,4 +1,4 @@
-# Textra Documentation
+# Textra-Health Documentation
 
 ![Textra Logo](https://github.com/MasrourTawfik/Textra-Health/blob/main/Documentation/Images/logo.jpeg)
 
