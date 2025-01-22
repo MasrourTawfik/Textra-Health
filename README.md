@@ -29,4 +29,4 @@ Now you're ready to start working on the documentation!
 
 ## Accessing the Documentation Online
 
-The documentation is hosted on ReadTheDocs. You can access it online by following this [link]([https://textra.readthedocs.io/fr/latest/](https://text2.readthedocs.io/en/latest/Documentation/Scripts/1_Project.html)).
+The documentation is hosted on ReadTheDocs. You can access it online by following this [link]([https://text2.readthedocs.io/en/latest/index.html)).
