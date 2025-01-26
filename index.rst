@@ -18,6 +18,7 @@ Bienvenue à Textra-Health's documentation!
    Documentation/Scripts/OCR.rst
    Documentation/Scripts/Dataset.rst
    Documentation/Scripts/Qlora.rst
+   Documentation/Scripts/modele.rst
    Documentation/Scripts/embedding.rst
    
    
