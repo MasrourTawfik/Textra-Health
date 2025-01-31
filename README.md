@@ -30,4 +30,4 @@ Now you're ready to start working on the documentation!
 
 ## Accessing the Documentation Online
 
-The documentation is hosted on ReadTheDocs. You can access it online by following this [link](https://text2.readthedocs.io/en/latest/index.html).
+The documentation is hosted on ReadTheDocs. You can access it online by following this [link](https://doc1384768746.readthedocs.io/fr/latest/index.html).
