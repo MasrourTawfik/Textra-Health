@@ -1,6 +1,9 @@
-# Textra Documentation
+# Textra-Health Documentation
+
+![Textra Logo](https://github.com/MasrourTawfik/Textra-Health/blob/main/Documentation/Images/logo.jpeg)
 
 Welcome to the documentation repository for Textra-Health.
+
 ## Getting Started with Documentation Development
 
 If you're interested in contributing to the documentation, follow these steps to set up your development environment:
@@ -17,8 +20,6 @@ Make sure you have Python installed on your system.
    git clone https://github.com/MasrourTawfik/Textra-Health.git
    ```
 
-
-
 2. Install the required dependencies using pip:
 
    ```bash
@@ -29,4 +30,4 @@ Now you're ready to start working on the documentation!
 
 ## Accessing the Documentation Online
 
-The documentation is hosted on ReadTheDocs. You can access it online by following this [link]([https://textra.readthedocs.io/fr/latest/](https://text2.readthedocs.io/en/latest/Documentation/Scripts/1_Project.html)).
+The documentation is hosted on ReadTheDocs. You can access it online by following this [link](https://text2.readthedocs.io/en/latest/index.html).
