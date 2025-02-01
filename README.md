@@ -59,7 +59,6 @@ We welcome contributions! If you'd like to contribute:
 - Create a new branch.
 - Submit a pull request with your improvements.
 
-For more details, please check the `CONTRIBUTING.md` file.
 
 ---
 
