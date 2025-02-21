@@ -2,7 +2,7 @@
 
 ![Textra Logo](https://github.com/MasrourTawfik/Textra-Health/blob/main/Documentation/Images/logo.jpeg)
 
-Welcome to the documentation repository for **Textra-Health**.
+Welcome to the documentation repository for  **Textra-Health**.
 
 ---
 
